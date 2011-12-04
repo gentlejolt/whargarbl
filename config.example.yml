@@ -1,0 +1,8 @@
+- irc.example.com:
+    database: 'links.sqlite'
+    nick: linkbot
+    realname: IRC Link Bot
+    user: linkbot
+    channels:
+        - politics
+        - fashion
